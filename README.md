@@ -133,6 +133,8 @@ To run this project, you will need to add the following environment variables to
 
 - [Arnavi Gode](https://github.com/arnavigode)
 
+- [Manasvi Sharma](https://github.com/Manasvi26)
+
 
 
 - USERS repo :- https://github.com/suvamAdhikary/dineout_clone
