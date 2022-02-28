@@ -20,7 +20,7 @@ Dineout web application gives you the perfect restaurant of your choice. You can
 - Styled- components
 
 
-### Otp Varification
+### Otp Verification
 - [Firebase](https://firebase.google.com/)
 
 
